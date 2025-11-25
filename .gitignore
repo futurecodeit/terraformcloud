@@ -16,7 +16,7 @@ override.tf.json
 *_override.tf.json
 
 # Exclude variable files containing secrets
-*.tfvars
+#*.tfvars
 *.tfvars.json
 
 # Exclude plan output files
